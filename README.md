@@ -6,7 +6,7 @@ Me and my friend Yoni, used the attached datasets to classify different kinds of
 
 ## Walkthrough
 
-I highly recommend you to first take a glimpse at the EDA section.\
+I highly recommend you to first take a glimpse at the[ EDA ](https://github.com/ItayOfer/snacks-Classification/blob/main/EDA/EDA.pdf)section.\
 There you could find some interesting insights of the datasets.\
 We also made up little stories to keep you entertained during your glimpse.
 
