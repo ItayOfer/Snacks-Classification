@@ -17,6 +17,6 @@ In the model folder you can read the Modelling PDF that will walk you through ou
 
 ## The results
 
-Model 1 - 94.7%\
-Model 2 - 95.1%\
-Model 3 - 96%
+Model 1 - 94.7% accuracy\
+Model 2 - 95.1% accuracy\
+Model 3 - 96% accuracy
