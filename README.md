@@ -14,7 +14,7 @@ We also made up little stories to keep you entertained during your glimpse.
 As soon as you finish you are more than welcome to continue to the modelling section.\
 We developed 4 different models for this classification task, and used 3 of them for predicting.
 
-In the models folder you can read the Modelling PDF that will walk you through our models' development process.
+In the models folder you can read the [Modelling PDF](https://github.com/ItayOfer/snacks-Classification/blob/main/models/Modelling.pdf) that will walk you through our models' development process.
 
 ## The results
 
